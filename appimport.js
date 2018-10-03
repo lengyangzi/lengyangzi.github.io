@@ -1,4 +1,5 @@
-console.log("恐惧让你沦为奴隶，希望使你重获自由。————《肖申克的救赎》")
+console.log("hi，同学，祝贺你喜提彩蛋~\n冷羊网(www.shadowsocks9.com)\n现在招聘nodejs前端开发工程师，请投简历 ggyangxing@gmail.com");
+
 //window.$crisp=[];window.CRISP_WEBSITE_ID="44cb21f7-fd9e-42cc-8c11-5a3e01ebe39a";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();
 
 // live chat
