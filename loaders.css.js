@@ -9,7 +9,7 @@
     'ball-clip-rotate-multiple': 2,
     'ball-pulse-rise': 5,
     'ball-rotate': 1,
-    'cube-transition': 2,
+    // 'cube-transition': 2,
     'ball-zig-zag': 2,
     'ball-zig-zag-deflect': 2,
     'ball-triangle-path': 3,
